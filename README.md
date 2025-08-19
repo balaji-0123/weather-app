@@ -18,7 +18,7 @@ A simple weather app built with **HTML, CSS, JavaScript, and Python** that fetch
 ## 📸 Screenshot
 Here’s how the app looks:
 
-![Weather App Output](assets/weather_output.png)
+ Assets/weather_output.png
 
 ---
 
