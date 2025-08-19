@@ -1,18 +1,36 @@
-# 🌦 Weather App
+# 🌦️ Weather App
 
-A simple weather app that shows:
-- Temperature
-- Humidity
-- Wind Speed
-- Weather description
+A simple weather app built with **HTML, CSS, JavaScript, and Python** that fetches live weather data using the [OpenWeatherMap API](https://openweathermap.org/).
 
-## 🚀 How to use
-1. Open `index.html`
-2. Type a city name
-3. Get weather info!
+---
 
-## 🛠 Built with
-- HTML
-- CSS
-- JavaScript
-- OpenWeather API
+## 🚀 Features
+- Search weather by city name 🌍
+- Get current weather using your location 📍
+- Displays:
+  - Temperature 🌡️
+  - Humidity 💧
+  - Wind Speed 🍃
+  - Weather Description ☁️
+
+---
+
+## 📸 Screenshot
+Here’s how the app looks:
+
+![Weather App Output](assets/weather_output.png)
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend (optional):** Python (for API testing)  
+- **API:** [OpenWeatherMap](https://openweathermap.org/api)
+
+---
+
+## 🔧 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/balaji-0123/weather-app.git
